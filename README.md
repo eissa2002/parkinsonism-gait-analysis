@@ -12,7 +12,7 @@ We are proud to announce that our research paper, titled "Parkinsonian Gait Seve
 
 ![IEEE](https://github.com/eissa2002/parkinsonism-gait-analysis/assets/96894512/96dd4759-5ca4-44d0-810d-e81f50b27f64)
 
-<img src="https://github.com/eissa2002/parkinsonism-gait-analysis/assets/96894512/96dd4759-5ca4-44d0-810d-e81f50b27f64" alt="Flowchart" width="800">
+<img src="https://github.com/eissa2002/parkinsonism-gait-analysis/assets/96894512/96dd4759-5ca4-44d0-810d-e81f50b27f64" alt="Flowchart" width="300">
 
 
 ## Conference Award
