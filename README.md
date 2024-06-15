@@ -55,10 +55,9 @@ Each model's performance was evaluated using metrics such as accuracy, recall, F
 
 The best-performing model underwent further refinement and was prepared for deployment. This step ensures that the model is optimized for real-world application, providing a reliable tool for clinical assessment and monitoring of gait abnormalities.
 
-## Flowchart
+## Frocess Flowchart
 
-![Flowchart](https://github.com/eissa2002/parkinsonism-gait-analysis/assets/96894512/94006082-6796-4a03-b838-2ce3f9a554b1)
-<img src="https://github.com/eissa2002/parkinsonism-gait-analysis/assets/96894512/94006082-6796-4a03-b838-2ce3f9a554b1" alt="Flowchart" width="500">
+<img src="https://github.com/eissa2002/parkinsonism-gait-analysis/assets/96894512/94006082-6796-4a03-b838-2ce3f9a554b1" alt="Flowchart" width="600">
 
 ## Authors
 
