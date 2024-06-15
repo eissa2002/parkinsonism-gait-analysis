@@ -10,7 +10,8 @@ This project focuses on analyzing Parkinsonian gait severity in older adults wit
 
 We are proud to announce that our research paper, titled "Parkinsonian Gait Severity in Older Adults with Dementia Using Natural Gait Video Analysis," has been published by IEEE. This publication is a significant milestone and a testament to the hard work and dedication of our team.
 
-![IEEE](https://github.com/eissa2002/parkinsonism-gait-analysis/assets/96894512/f4c2c29e-00f6-4a07-a646-16bed3438991)
+![IEEE](https://github.com/eissa2002/parkinsonism-gait-analysis/assets/96894512/96dd4759-5ca4-44d0-810d-e81f50b27f64)
+
 
 ## Conference Award
 
