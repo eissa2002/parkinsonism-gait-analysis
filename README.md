@@ -60,10 +60,9 @@ The best-performing model underwent further refinement and was prepared for depl
 
 - Eissa Islam
 - Mariam Medhat
+- Mohamed Ali
 - Farah Waleed
-- Mohanad A. Deif
-- Shawkat Alkhazaleh
-- Mohamed Hafez
+- Ahmed Fathy
 
 ## License
 
