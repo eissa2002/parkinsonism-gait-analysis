@@ -10,6 +10,8 @@ This project focuses on analyzing Parkinsonian gait severity in older adults wit
 
 We are proud to announce that our research paper, titled "Parkinsonian Gait Severity in Older Adults with Dementia Using Natural Gait Video Analysis," has been published by IEEE. This publication is a significant milestone and a testament to the hard work and dedication of our team.
 
+![IEEE Publication]("C:\Users\eissa\OneDrive\Desktop\Spring 2024\Grad Project\Material\Picture1.png")
+
 ## Conference Award
 
 Our project won 2nd place at the International Scientific Student Conference of the Faculty of Nursing, held at Misr University for Science and Technology from April 20 to 24, 2024. This recognition highlights the impact and relevance of our research in the field of healthcare and artificial intelligence.
@@ -54,7 +56,7 @@ The best-performing model underwent further refinement and was prepared for depl
 
 ## Flowchart
 
-![Flowchart](path/to/flowchart.png)
+![Flowchart]("C:\Users\eissa\OneDrive\Desktop\Spring 2024\Grad Project\visualizations and flowcharts\newest.png")
 
 ## Authors
 
